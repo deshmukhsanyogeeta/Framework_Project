@@ -518,3 +518,15 @@
 12:29:25.571 [main] INFO  testCases.Tc001_AccountRegistrationTest.verify_account_registration(Tc001_AccountRegistrationTest.java:54)oggger - *** finished Tc001_AccountRegistrationTest ***
 12:29:27.744 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - *** Starting TC002_LoginTest ***
 12:29:29.915 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - *** Finished TC002_LoginTest ***
+13:27:02.439 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+13:36:32.947 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+13:39:46.356 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+12:17:59.481 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+12:18:16.316 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - *** Starting TC002_LoginTest ***
+12:18:18.709 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - *** Finished TC002_LoginTest ***
+12:20:01.399 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+12:20:16.222 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - *** Starting TC002_LoginTest ***
+12:20:18.364 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - *** Finished TC002_LoginTest ***
+12:24:49.338 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Chaitanya Deshmukh\OneDrive\Desktop\Framework_Project\Master.xml"
+12:24:53.886 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - *** Starting TC002_LoginTest ***
+12:24:56.108 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - *** Finished TC002_LoginTest ***
